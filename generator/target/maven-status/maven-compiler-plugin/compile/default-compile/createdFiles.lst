@@ -1,0 +1,17 @@
+com\xzx\service\impl\GeneratorServiceImpl.class
+com\xzx\GeneratorApplication.class
+com\xzx\service\IGeneratorService.class
+com\xzx\utils\FileUtiles.class
+com\xzx\template\MapperTemplate.class
+com\xzx\template\ServiceImplTemplate.class
+com\xzx\entity\TableEntity.class
+com\xzx\template\ApplicatinTemplate.class
+com\xzx\template\ServiceTemplate.class
+com\xzx\mapper\TablesMapper.class
+com\xzx\template\ControllerTemplate.class
+com\xzx\template\EntityTemplate.class
+com\xzx\utils\ClassFactory.class
+com\xzx\utils\DataTypeUtils.class
+com\xzx\utils\NameUtils.class
+com\xzx\entity\ColumnEntity.class
+com\xzx\utils\EnvironmentFactory.class
